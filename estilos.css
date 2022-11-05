@@ -1,0 +1,22 @@
+.header{
+    background-image: url(./ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+
+}
+
+.altura{height: 200px;}
+
+.mar{
+    background-image: url(./honolulu.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+.negro{
+        background-color: rgb(65, 62, 62); 
+        background-position: center;
+        background-size: cover;
+        height: 600px;
+}
